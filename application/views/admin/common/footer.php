@@ -1,0 +1,1 @@
+<div id="footer">ThangPV &copy;Copyright 2018. All rights reserved</div><!--End footer-->
